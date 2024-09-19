@@ -1,0 +1,22 @@
+{
+  "name": "ai-chat-bot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@micro-zoe/micro-app": "^1.0.0-rc.10",
+    "element-plus": "^2.8.3",
+    "vue": "^3.4.37",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "sass-embedded": "^1.79.1",
+    "vite": "^5.4.1"
+  }
+}
